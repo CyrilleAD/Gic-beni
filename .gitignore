@@ -1,0 +1,7 @@
+# Secrets et données locales
+.env
+db.sqlite3
+
+# Fichiers générés (phases suivantes)
+media/
+staticfiles/
