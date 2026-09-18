@@ -5,3 +5,9 @@ db.sqlite3
 # Fichiers générés (phases suivantes)
 media/
 staticfiles/
+
+# Fichiers Python générés automatiquement
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
